@@ -10,8 +10,10 @@
     "references": [
         { "path": "../core" },
         { "path": "../aws-kms" },
+        { "path": "../cdp" },
         { "path": "../fireblocks" },
         { "path": "../gcp-kms" },
+        { "path": "../para" },
         { "path": "../privy" },
         { "path": "../turnkey" },
         { "path": "../vault" }
